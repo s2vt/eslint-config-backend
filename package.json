@@ -1,0 +1,8 @@
+{
+  "name": "@ssvt/eslint-config-backend",
+  "version": "1.0.0",
+  "description": "ESLint config for backend project",
+  "main": "index.js",
+  "author": "ssvt",
+  "license": "MIT"
+}
