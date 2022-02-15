@@ -1,9 +1,10 @@
 module.exports = {
+    plugins: ["jest"],
     extends: [
         "airbnb-base",
         "plugin:import/errors",
         "plugin:import/warnings",
-        "plugin:@typescript-eslint/recommended",
+        "plugin:jest/recommended",
     ],
     rules: {
         "no-console": "off",
@@ -29,5 +30,6 @@ module.exports = {
         "import/no-unresolved": 0,
         "import/prefer-default-export": "off",
         "import/no-extraneous-dependencies": "off",
+        "jest/no-deprecated-functions": "off",
     },
 };

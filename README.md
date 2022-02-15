@@ -16,7 +16,7 @@ Peer dependencies에 포함된 패키지를 모두 설치해야 합니다.
 ```shell
 $ npm install bitbucket:s2vt/eslint-config-backend#v1.0.0
 
-$ npm install --save-dev @typescript-eslint/eslint-plugin@5.10.2 @typescript-eslint/parser@5.10.2 eslint@8.8.0 eslint-config-airbnb-base@15.0.0 eslint-config-prettier@8.3.0 eslint-plugin-import@2.25.4 eslint-plugin-prettier@4.0.0 prettier@2.5.1
+$ npm install --save-dev @typescript-eslint/eslint-plugin@5.10.2 @typescript-eslint/parser@5.10.2 eslint@8.8.0 eslint-config-airbnb-base@15.0.0 eslint-config-prettier@8.3.0 eslint-plugin-jest@26.1.0 eslint-plugin-import@2.25.4 eslint-plugin-prettier@4.0.0 prettier@2.5.1
 ```
 
 ## Getting Started
