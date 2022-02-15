@@ -7,7 +7,9 @@
   "license": "MIT",
   "files": [
     "index.js",
-    "typescript.js"
+    "typescript.js",
+    "prettier.js",
+    ".prettierrc.json"
   ],
   "peerDependencies": {
     "eslint": "^8.8.0",
