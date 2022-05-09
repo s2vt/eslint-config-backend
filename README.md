@@ -11,8 +11,6 @@
 해당 패키지와 함께
 Peer dependencies에 포함된 패키지를 모두 설치해야 합니다.
 
-설치 시 Bitbucket 접속을 위한 SSH, 혹은 Token 등이 세팅 되어있어야 합니다.
-
 ```shell
 $ npm install bitbucket:s2vt/eslint-config-backend#v1.0.0
 
